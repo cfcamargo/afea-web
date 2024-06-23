@@ -1,5 +1,10 @@
 <script lang="ts" setup>
-
+useHead({
+    title: 'AFEA | Associação Fronteiriça de Estudantes e Acadêmicos',
+    meta: [
+        { name: 'description', content: 'Associação Fronteiriça de Estudantes e Acadêmicos' }
+    ],
+})
 </script>
 
 <template>

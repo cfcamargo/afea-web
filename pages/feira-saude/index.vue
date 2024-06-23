@@ -1,5 +1,7 @@
 <script lang="ts" setup>
-
+useHead({
+    title: 'AFEA | Feira Saude E Bem Estar',
+})
 </script>
 
 <template>

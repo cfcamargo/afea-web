@@ -2,6 +2,10 @@
 import type { CourseProps } from '~/types/Courses';
 import { LoaderCircle } from 'lucide-vue-next';
 
+useHead({
+    title: 'AFEA | Feira Saude E Bem Estar - Palestras',
+})
+
 const config = useRuntimeConfig()
 
 const courses = ref<CourseProps[]>([])
