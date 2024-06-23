@@ -8,9 +8,15 @@ const props = defineProps<{
 <template>
     <div class="rounded shadow-md p-6 border">
         <div class="flex flex-col">
-            <h4 class="text-2xl font-bold">{{ props.course.theme }}</h4>
-            <span>Palestrante: {{ props.course.professionalResponsable }}</span>
+            <h4 class="text-2xl font-bold text-primary">{{ props.course.theme }}</h4>
+            <span class="mt-2">Palestrante: {{ props.course.professionalResponsable }}</span>
             <span>Duração: {{ props.course.duration }}</span>
+            <p class="my-4">{{ props.course.details }}</p>
+
+            <div class="flex flex-col">
+                <span class="text-primary">Observações</span>
+                <span>{{ props.course.observation }}</span>
+            </div>
 
             <div class="pt-2">
                 <div >
@@ -23,7 +29,7 @@ const props = defineProps<{
                     <span>{{ props.course.hour }}</span>
                 </div>
 
-                <BaseButton type="button" class="mt-4">
+                <BaseButton type="button" class="mt-4 w-full">
                     <a :href="props.course.inscriptionUrl" target="_blank">
                         Inscreva-se
                     </a>

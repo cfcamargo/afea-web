@@ -7,5 +7,6 @@ export interface CourseProps {
     professionalResponsable: string,
     cost: string,
     inscriptionUrl: string,
-    details: string
+    details: string,
+    observation?: string
 }

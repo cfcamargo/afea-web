@@ -26,7 +26,6 @@ const fetchCourses = async() => {
         }
         const data = await response.json();
         for(let i = 0; i < data.values.length; i++) {
-            console.log(data.values[i])
             if(
                 i !== 0 && 
                 data.values[i][0] !== '' &&
@@ -49,7 +48,8 @@ const fetchCourses = async() => {
                 professionalResponsable: data.values[i][5],
                 cost: data.values[i][6],
                 inscriptionUrl: data.values[i][7],
-                details: data.values[i][8]
+                details: data.values[i][8],
+                observation: data.values[i][9]
             }
 
             courses.value.push(course)
@@ -83,7 +83,7 @@ onMounted(() => {
                 <span>Carregando, aguarde...</span>
             </div>
 
-            <div class="grid xs:grid-cols-1 md:grid-cols-3 gap-8" v-else-if="courses.length > 0">
+            <div class="grid xs:grid-cols-1 md:grid-cols-2 gap-8" v-else-if="courses.length > 0">
                 <CourseCard 
                     v-for="(course, index) in courses" 
                     :key="index" 
