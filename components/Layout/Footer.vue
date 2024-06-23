@@ -14,7 +14,7 @@ import { Instagram } from 'lucide-vue-next';
                 <div>
                     <span class="font-bold text-primary">Endereço</span>
                     <p class="text-text">
-                        Av. Antônio João, 1115A, Centro
+                        Av. Brasil, 4106 - Centro
                     </p>
                     <p class="text-text">
                         Ponta Porã - MS

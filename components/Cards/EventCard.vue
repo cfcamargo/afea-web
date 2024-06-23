@@ -7,8 +7,8 @@
             <nuxt-img src="/feira-saude/logo.png"/>
         </div>
         <div>
-            <h3 >FEIRA INTERNACIONAL DE SAÚDE</h3>
-            <span>Bem estar e saúde</span>
+            <h3 >1ª FEIRA INTERNACIONAL DE SAÚDE</h3>
+            <span>Bem estar e negócios</span>
         </div>
 
         <div class="mt-2">

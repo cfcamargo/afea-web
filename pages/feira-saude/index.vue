@@ -18,7 +18,7 @@ useHead({
                     <NuxtLink to="/" class="w-full px-4 py-2 bg-blue-500 rounded flex justify-center text-white hover:brightness-105">SITE</NuxtLink>
                     <a href="" class="w-full px-4 py-2 bg-blue-500 rounded flex justify-center text-white hover:brightness-105">REVISTA</a>
                     <a href="" class="w-full px-4 py-2 bg-blue-500 rounded flex justify-center text-white hover:brightness-105">PUBLICIDADE IN LOCO</a>
-                    <a href="https://www.instagram.com/associacaoafea?igsh=Y3ZqZWliY2NrNDl3" target="_blank" class="w-full px-4 py-2 bg-blue-500 rounded flex justify-center text-white hover:brightness-105">INSTAGRAM</a>
+                    <a href="https://www.instagram.com/feiraidesaude?igsh=bTQ5b3IzcndyMGs3" target="_blank" class="w-full px-4 py-2 bg-blue-500 rounded flex justify-center text-white hover:brightness-105">INSTAGRAM</a>
                 </div>
             </div>
         </div>

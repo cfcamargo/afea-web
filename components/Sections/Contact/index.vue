@@ -22,7 +22,7 @@ const submit = () => {
             </div>
             <div class="h-full">
                 <form @submit.prevent="submit" class="shadow-md rounded bg-white p-8 h-full flex flex-col items-center justify-center">
-                    <h3 class="text-center text-text text-2xl">Preencha o Formulário abaixo, que nossa equipe entrara em contato</h3>
+                    <h3 class="text-center text-text text-2xl">Preencha o Formulário abaixo, que nossa equipe entrará em contato</h3>
 
                     <div class="flex flex-col gap-4 mt-10 w-full">
                         <div class="flex gap-2 items-center p-2 border rounded-md text-text">
