@@ -18,6 +18,7 @@ useHead({
         <Specialist />
         <Services />
         <Events />
+        <Brands />
         <Contact />
         <Footer />
     </main>
