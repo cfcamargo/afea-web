@@ -12,7 +12,7 @@
                 </svg>
             </div>
 
-            <span>Accessoria</span>
+            <span>Assessoria</span>
         </div>
 
         <div class="flex xs:flex-col md:flex-row justify-start items-center gap-2">
