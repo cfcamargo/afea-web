@@ -12,7 +12,7 @@
         </div>
 
         <div class="mt-2">
-            <span class="font-bold text-red-500">05,06 e 07 de Julho</span>
+            <span class="font-bold text-red-500">02,03 e 04 de Agosto</span>
             <p>Ginásio Poliesportivo Anexo à Primeira Igreja Batista</p>
         </div>
 

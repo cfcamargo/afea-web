@@ -1,4 +1,9 @@
 <script lang="ts" setup>
+const infoModal = ref(true)
+const closeModal = () => {
+    infoModal.value = false
+}
+
 useHead({
     title: 'AFEA | Associação Fronteiriça de Estudantes e Acadêmicos',
     meta: [
@@ -21,5 +26,6 @@ useHead({
         <Brands />
         <Contact />
         <Footer />
+        <EventDateInfo :show="infoModal" @close="closeModal"/>
     </main>
 </template>
