@@ -44,6 +44,18 @@ const brands = [
         url : "https://www.instagram.com/imperiovioletacosmeticos?igsh=MWp1bnFiOW5yazd4Mg==",
         image: "/brand/VIOLETA.jpg"
     },
+    {
+        url : "http://copconstrutora.com.br/",
+        image: "/brand/cop-home-office.png"
+    },
+    {
+        url : "https://www.instagram.com/comercialmanduvisa/",
+        image: "/brand/manduvi.png"
+    },
+    {
+        url : "https://www.tigre.com.br/",
+        image: "/brand/tigre.png"
+    },
 ]
 
 const sliderPerView = ref(3)
