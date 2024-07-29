@@ -24,7 +24,7 @@ import { Instagram } from 'lucide-vue-next';
                 <div>
                     <span class="font-bold text-primary">Telefone</span>
                     <p class="text-text">
-                        +679 9958-1199
+                        +679 9842-2638
                     </p>
                 </div>
 

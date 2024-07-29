@@ -37,10 +37,11 @@ const cards = [
                 <p class="text-justify text-text">
                     Somos uma organização de estudantes, focados no bem estar, que através do trabalho em equipe e sistema de credenciamento estudantil, estamos comprometidos em causar diferença na vida dos estudantes, sobretudo destacar todos os benefícios  que posssam ser proporcionados, dando-lhes uma oportunidade real de crescimento pessoal, contribuição social e benefícios financeiros
                 </p>
-
-                <BaseButton>
-                    Contato
-                </BaseButton>
+                <a href="https://wa.me/5567998422638" target="_blank">
+                    <BaseButton>
+                        Contato
+                    </BaseButton>
+                </a>
             </div>
 
             <div class="flex-1 grid xs:grid-cols-1 md:grid-cols-2 gap-4">
