@@ -29,7 +29,7 @@ export function useServicesItems(): servicesProps[] {
         {
             icon: 'IconAcessoriaMobiliaria',
             title: 'Acessoria Mobiliária',
-            link: 'https://instabio.cc/DesapegueAqui?fbclid=PAZXh0bgNhZW0CMTEAAaYeoa4l_YoVa_Uq09K6gGnnY6jJk0fQm2a0SUxkXYG2Qp2c8z-9gvateDY_aem__4KPtkHDDxSh8MOrcrDB-g'
+            link: 'https://www.instagram.com/desapegueaquidafronteira?igsh=aGc2cGNtaXR6Y3dz&utm_source=qr'
         },
         {
             icon: 'IconAcessoriaManutencaoMobiliaria',
