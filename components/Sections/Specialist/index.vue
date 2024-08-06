@@ -15,13 +15,15 @@
                     <span class="text-primary">Especialistas</span> 
                 </h4>
 
-                <p>
+                <p class="pb-5">
                     Atendemos estudantes desde o ensino fundamental e médio até universitários, oferecendo suporte e recursos para todas as etapas da jornada educacional. Nossa associação está comprometida em proporcionar um ambiente enriquecedor e colaborativo, onde cada aluno pode crescer, aprender e alcançar seu pleno potencial.
                 </p>
 
-                <BaseButton class="xs:w-full md:w-auto">
-                    QUERO SER CREDENCIADO
-                </BaseButton>
+                <a href="https://docs.google.com/forms/d/1zGT4gIv0SPjGGFNe2iH3d_l_qD5bzVq7L6xIJOld3gE/viewform" target="_blank">
+                    <BaseButton class="xs:w-full md:w-auto">
+                        QUERO SER CREDENCIADO
+                    </BaseButton>
+                </a>
             </div>
         </Container>
     </section>

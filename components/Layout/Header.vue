@@ -27,7 +27,7 @@ const defineAnimationToHamburgueMenu = computed(() => {
                 <a href="" class="hover:brightness-90">Eventos</a>
             </nav>
 
-            <a href="">
+            <a href="https://docs.google.com/forms/d/1zGT4gIv0SPjGGFNe2iH3d_l_qD5bzVq7L6xIJOld3gE/viewform" target="_blank">
                 <BaseButton class="xs:hidden md:flex">
                     Seja Credenciado
                 </BaseButton>
@@ -48,7 +48,7 @@ const defineAnimationToHamburgueMenu = computed(() => {
                 <a href="" class="hover:brightness-90 font-bold text-xl">Eventos</a>
             </div>
 
-            <a href="" class="w-full">
+            <a href="https://docs.google.com/forms/d/1zGT4gIv0SPjGGFNe2iH3d_l_qD5bzVq7L6xIJOld3gE/viewform" target="_blank" class="w-full">
                 <BaseButton class="mt-20 w-full">
                     Seja Credenciado
                 </BaseButton>
