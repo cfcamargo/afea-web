@@ -4,21 +4,20 @@
 <template>
     <div class="p-6 shadow-md flex flex-col gap-4">
         <div>
-            <nuxt-img src="/feira-saude/logo.png"/>
+            <nuxt-img src="/fisiculturismo.png"/>
         </div>
         <div>
-            <h3 >1ª FEIRA INTERNACIONAL DE SAÚDE</h3>
-            <span>Bem estar e negócios</span>
+            <h3 >1º Campeonato de Fisiculturismo</h3>
         </div>
 
         <div class="mt-2">
-            <span class="font-bold text-red-500">02,03 e 04 de Agosto</span>
-            <p>Ginásio Poliesportivo Anexo à Primeira Igreja Batista</p>
+            <span class="font-bold text-red-500">02 de Novembro</span>
+            <p>Centro Internacional de convenções de Ponta Porã</p>
         </div>
 
-        <NuxtLink to="/feira-saude" class="w-full p-4 flex justify-center items-center bg-primary rounded text-white hover:brightness-105">
+        <a href="wa.me/5567991412544" target="_blank" class="w-full p-4 flex justify-center items-center bg-primary rounded text-white hover:brightness-105">
             Saber Mais
-        </NuxtLink>
+        </a>
     </div>
 </template>
 

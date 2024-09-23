@@ -12,7 +12,7 @@
                 <X />
             </button>
             <div>
-                <nuxt-img src="/new-date-banner.png"/>
+                <nuxt-img src="/fisiculturismo.png"/>
             </div>
         </div>
     </div>
