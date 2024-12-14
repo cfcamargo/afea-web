@@ -26,6 +26,6 @@ useHead({
         <Brands />
         <Contact />
         <Footer />
-        <EventDateInfo :show="infoModal" @close="closeModal"/>
+        <!-- <EventDateInfo :show="infoModal" @close="closeModal"/> -->
     </main>
 </template>
